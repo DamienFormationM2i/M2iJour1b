@@ -8,10 +8,6 @@ aababababbconflict fixed
 !!!!!!!!!!
 §§§§§§§§§§
 µµµµµµµ
-<<<<<<< HEAD
 encore une ligne
 C1'
 c2'
-=======
-encore une ligne
->>>>>>> parent of a8bac05... commit 1'
