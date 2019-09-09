@@ -6,4 +6,6 @@ aababababbconflict fixed
 45646464conflict fixed
 ùçèèèèèè
 !!!!!!!!!!
+§§§§§§§§§§
 µµµµµµµ
+encore une ligne
