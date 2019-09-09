@@ -10,4 +10,3 @@ aababababbconflict fixed
 µµµµµµµ
 encore une ligne
 C1'
-c2'
